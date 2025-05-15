@@ -1,0 +1,15 @@
+{
+    "name": "jose-romano/desafio-laravel",
+    "description": "Desafio Laravel com Sanctum usando SQLite",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "joseguilhermeromano",
+            "email": "jose_guilherme_romano@hotmail.com"
+        }
+    ],
+    "require": {
+        "laravel/laravel": "^12.0"
+    }
+}
